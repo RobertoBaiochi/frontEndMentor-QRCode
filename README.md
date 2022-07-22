@@ -28,7 +28,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Live Url : https://robertobaiochi.github.io/frontEndMentor-interactive-rating/
+- Live Url : https://robertobaiochi.github.io/frontEndMentor-QRCode/
 
 ## My process
 
